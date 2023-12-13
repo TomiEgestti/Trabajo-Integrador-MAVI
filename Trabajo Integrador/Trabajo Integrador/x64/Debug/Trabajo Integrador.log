@@ -1,0 +1,14 @@
+﻿  Juego.cpp
+C:\Users\Tomi\source\repos\Trabajo Integrador\Trabajo Integrador\Juego.cpp(11,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Tomi\source\repos\Trabajo Integrador\Trabajo Integrador\Juego.cpp(11,17): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Tomi\source\repos\Trabajo Integrador\Trabajo Integrador\Juego.cpp(85,39): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Users\Tomi\source\repos\Trabajo Integrador\Trabajo Integrador\Juego.cpp(85,27): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+  Trabajo Integrador.vcxproj -> C:\Users\Tomi\source\repos\Trabajo Integrador\x64\Debug\Trabajo Integrador.exe
